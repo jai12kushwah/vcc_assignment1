@@ -30,6 +30,6 @@ Steps to Deploy
 
 Author
 
--Name: Saif Jawed 
+-Name: Jai Singh Kushwah
 
--Roll Number: G23AI2026
+-Roll Number: G23AI2018
